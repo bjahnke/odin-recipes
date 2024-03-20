@@ -21,3 +21,28 @@
 .spring-orzo-risotto {
     background-color: darkgoldenrod;
 }
+
+.index-page {
+    background-color: white;
+}
+
+h1 {
+    font-family: sans-serif;
+}
+
+h3 {
+    font-family: monospace;
+}
+
+img {
+    height: 300px;
+    width: 300px;
+}
+
+div ol {
+    background-color: white;
+}
+
+div ul {
+    background-color: aqua;
+}
