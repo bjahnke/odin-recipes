@@ -8,5 +8,16 @@
 
 .recipe-link {
     font-size: large;
+}
 
+.lasagna-page {
+    background-color: yellow;
+}
+
+.mint-chicken {
+    background-color: rgb(181, 238, 209);
+}
+
+.spring-orzo-risotto {
+    background-color: darkgoldenrod;
 }
