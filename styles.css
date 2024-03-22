@@ -2,6 +2,20 @@
     background-color: lightpink;
 }
 
+.centerize {
+    text-align: center;
+    width: 50%;
+    margin: auto;
+}
+
+.recipe-title {
+    margin: auto auto 10px;
+}
+
+.recipe-info-container {
+    padding-bottom: 1px;
+}
+
 #index-title {
     color:rgb(12, 74, 95);
 }
@@ -21,7 +35,7 @@
 }
 
 .lasagna-page {
-    background-color: yellow;
+    background-color: #ffffb5;
 }
 
 .mint-chicken {
@@ -36,25 +50,30 @@
     background-color: white;
 }
 
+.recipe-info, 
+.recipe-info * {
+    background-color: white;
+}
+
+.recipe-info {
+    padding: 10px 20px;
+    background-color: white;
+    width: 80%;
+    margin: auto auto 16px;
+    text-align: left;
+}
+
 h1 {
     font-family: sans-serif;
 }
 
 h3 {
     font-family: monospace;
+    padding-top: 10px;
 }
 
 img {
     display: block;
-    margin-left: auto;
-    margin-right: auto;
+    margin: auto;
     width: 50%;
-}
-
-div ol {
-    background-color: white;
-}
-
-div ul {
-    background-color: aqua;
 }
