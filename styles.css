@@ -6,8 +6,18 @@
     color:rgb(12, 74, 95);
 }
 
+#title-div {
+    display: flex;
+}
+
+#index-quote {
+    padding: 32px 10px;
+    color: grey
+}
+
 .recipe-link {
     font-size: large;
+    padding: 10px;
 }
 
 .lasagna-page {
@@ -35,8 +45,10 @@ h3 {
 }
 
 img {
-    height: 300px;
-    width: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }
 
 div ol {
