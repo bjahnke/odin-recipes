@@ -12,20 +12,19 @@
     margin: auto auto 10px;
 }
 
-.recipe-info-container {
+.info-container {
     padding-bottom: 1px;
 }
 
 #index-title {
+    padding-top: 10px;
+    margin-bottom: 0px;
     color:rgb(12, 74, 95);
 }
 
-#title-div {
-    display: flex;
-}
-
 #index-quote {
-    padding: 32px 10px;
+    display: block;
+    padding-bottom: 10px;
     color: grey
 }
 
@@ -47,7 +46,7 @@
 }
 
 .index-page {
-    background-color: white;
+    background-color: rgb(164, 215, 231);
 }
 
 .recipe-info, 
@@ -56,11 +55,12 @@
 }
 
 .recipe-info {
-    padding: 10px 20px;
+    padding: 10px 40px;
     background-color: white;
     width: 80%;
     margin: auto auto 16px;
     text-align: left;
+    display: box;
 }
 
 h1 {
