@@ -1,4 +1,4 @@
 Recipes assignment for The Odin Project course.
 
-A basic recipe website for practicing the basics of HTML.
+A basic recipe website for practicing HTML and CSS.
 
